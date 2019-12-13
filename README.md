@@ -13,3 +13,5 @@
 [Expand Your Knowledge of Artificial Intelligence](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
 
 [Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256)
+
+[Become an AI Product Manager](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)
