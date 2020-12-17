@@ -33,6 +33,7 @@
 ### https://app.pluralsight.com/score/skill-assessment/aws-machine-learning-ai/intro?context=search
 
 ## Links
+- [x] https://www.w3schools.com/ai/
 ### https://www.netguru.com/blog/python-ai
 ### https://becominghuman.ai/mastering-ai-programming-with-python-in-1-year-3d0926e6a2bc
 ### https://www.edureka.co/blog/artificial-intelligence-with-python/
