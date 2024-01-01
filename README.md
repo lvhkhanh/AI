@@ -37,6 +37,7 @@ Recommended articles, films
 
 ## Links
 - [x] https://www.w3schools.com/ai/
+- [x] https://jasper.ai
 ### https://www.netguru.com/blog/python-ai
 ### https://becominghuman.ai/mastering-ai-programming-with-python-in-1-year-3d0926e6a2bc
 ### https://www.edureka.co/blog/artificial-intelligence-with-python/
